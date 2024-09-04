@@ -1,4 +1,8 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusTauan&show_icons=true&theme=transparent&title_color=00aaff&text_color=00aaff&icon_color=00aaff)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeuNomeDeUsuário&theme=transparent)
+
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeuNomeDeUsuário&theme=transparent)
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeuNomeDeUsuário&theme=transparent)
 
 ## 🖥️ Linguagens
 [![My Skills](https://skillicons.dev/icons?i=python,c,html,css&perline=4)](https://skillicons.dev)
